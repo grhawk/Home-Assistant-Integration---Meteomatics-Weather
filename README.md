@@ -35,6 +35,11 @@ Add screenshots to `docs/screenshots/` and link them here. Example paths:
 5. Install "Meteomatics Weather" and restart Home Assistant.
 6. Add the integration in Settings -> Devices & Services.
 
+## Releases (official HACS)
+- Tag releases as `vX.Y.Z`.
+- Keep `custom_components/meteomatics_weather/manifest.json` `version` in sync with the tag
+  (`X.Y.Z`).
+
 ## Manual install
 1. Copy `custom_components/meteomatics_weather` into your HA config directory.
 2. Restart Home Assistant.
