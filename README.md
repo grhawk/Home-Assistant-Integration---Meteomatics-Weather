@@ -1,5 +1,7 @@
 # Meteomatics Weather
 
+<img src="logo.png" alt="Meteomatics logo" width="96" height="96">
+
 [![HACS](https://img.shields.io/badge/HACS-Custom-orange.svg)](https://hacs.xyz/)
 ![GitHub release](https://img.shields.io/github/v/release/grhawk/Home-Assistant-Integration---Meteomatics-Weather)
 ![License](https://img.shields.io/github/license/grhawk/Home-Assistant-Integration---Meteomatics-Weather)
