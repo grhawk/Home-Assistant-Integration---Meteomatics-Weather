@@ -58,18 +58,19 @@ PARAMETERS_DAILY = [
 
 WEATHER_SYMBOL_MAP = {
     1: "sunny",
-    2: "partlycloudy",
-    3: "partlycloudy",
+    2: "light clouds",
+    3: "partly cloudy",
     4: "cloudy",
     5: "rainy",
     6: "snowy-rainy",
     7: "snowy",
-    8: "rainy",
-    9: "snowy",
-    10: "fog",
-    11: "lightning-rainy",
-    12: "lightning-rainy",
-    13: "pouring",
-    14: "snowy",
+    8: "rain shower",
+    9: "snow shower",
+    10: "rain and snow shower",
+    11: "light fog",
+    12: "dense fog",
+    13: "freezing rain",
+    14: "thunderstorms",
     15: "drizzle",
+    16: "sandstorm"
 }
