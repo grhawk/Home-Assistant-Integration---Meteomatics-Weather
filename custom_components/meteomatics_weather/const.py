@@ -66,10 +66,11 @@ WEATHER_SYMBOL_MAP = {
     7: "snowy",
     8: "rainy",
     9: "snowy",
-    10: "fog",
-    11: "lightning-rainy",
-    12: "lightning-rainy",
-    13: "pouring",
-    14: "snowy",
-    15: "hail",
+    10: "snowy-rainy",
+    11: "fog",
+    12: "fog",
+    13: "exceptional",
+    14: "lightning-rainy",
+    15: "rainy",
+    16: "exceptional"
 }
