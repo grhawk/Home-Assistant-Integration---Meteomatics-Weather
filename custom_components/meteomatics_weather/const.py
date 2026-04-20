@@ -71,5 +71,5 @@ WEATHER_SYMBOL_MAP = {
     12: "lightning-rainy",
     13: "pouring",
     14: "snowy",
-    15: "hail",
+    15: "drizzle",
 }
