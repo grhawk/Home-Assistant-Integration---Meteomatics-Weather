@@ -328,7 +328,7 @@ def _build_daily_forecast(
             entry["temperature"] = temp_max
         temp_min = _value_at(series_map, "t_min_2m_24h:C", when)
         if temp_min is not None:
-            entry["temperature_low"] = temp_min
+            entry["templow"] = temp_min
         condition = _map_condition(_value_at(series_map, "weather_symbol_24h:idx", when))
         if condition:
             entry["condition"] = condition
